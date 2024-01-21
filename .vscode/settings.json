@@ -24,5 +24,7 @@
         "2015/p001_2/Cargo.toml",
         "2015/p002_01/Cargo.toml",
         "2015/p002_02/Cargo.toml",
+        "2015/p003/Cargo.toml",
+        "2015/p003_2/Cargo.toml",
     ]
 }
